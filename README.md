@@ -1,2 +1,3 @@
-# recrindo-netflix
-Recriando NETFLIX
+# Recrindo NETFLIX
+
+Utilizando conceitos que aprendi com professor Felipe Aguiar
